@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Pathfinder</string>
+    <string name="letsgobutton">ПОЕХАЛИ !</string>
+    <string name="destination">Куда</string>
+    <string name="origin">Откуда</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="google_app_id">194656354871</string>
+</resources>
